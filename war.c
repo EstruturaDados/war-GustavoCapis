@@ -1,3 +1,4 @@
+//Nível Novato
 #include <stdio.h>
 #include <string.h>
 //Definindo estrutura do tipo Território
